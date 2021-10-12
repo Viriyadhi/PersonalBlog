@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Satisfy&family=Source+Serif+Pro&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.container-biasa {
+  width: 83%;
+  margin-top: 50px;
+  margin: auto;
+}
+
+.container-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: black;
+}
+
+.container1 {
+  flex: 1;
+}
+
+.div1 {
+  flex: 1;
+  background-color: green;
+}
+
+.div2 {
+  flex: 1;
+  background-color: red;
+}
+
+.div3 {
+  flex: 1;
+  background-color: blue;
+}
+
+.flex-blog {
+  flex: 1;
+  text-align: center;
+  justify-content: center;
+}
+
+.button-blog {
+  color: black;
+  padding: 25px 0;
+}
+
+.flex-about {
+  flex: 1;
+  text-align: center;
+}
+
+.button-about {
+  padding: 25px 0;
+}
+
+.flex-github {
+  flex: 1;
+  text-align: center;
+}
+
+.button-github {
+  color: black;
+  padding: 25px 0;
+}
+
+.flex-contact {
+  flex: 1;
+  text-align: center;
+}
+
+.button-contact {
+  padding: 25px 0;
+}
+
+.aeugh-h1 {
+  font-weight: 900;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-size: 45px;
+}
+
+.aka-h1 {
+  font-weight: 900;
+  line-height: 0.1px;
+  justify-content: center;
+  text-align: center;
+  font-family: "Cookie", cursive;
+}
+
+.viriyadhi-h1 {
+  font-weight: 900;
+  height: 30px;
+  line-height: 30px;
+  justify-content: center;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-size: 45px;
+}
+
+.beranda-title {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  width: 50%;
+  border-color: #1b2631;
+  display: block;
+  margin: auto;
+}
+
+.beranda-title2 {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  width: 25%;
+  border-color: #1b2631;
+  display: block;
+  margin: auto;
+}
+
+.beranda-title3 {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  width: 90%;
+  border-color: #1b2631;
+  display: block;
+  margin: auto;
+}
+
+.beranda-garis {
+  border-width: 0 0 35px 0;
+  border-style: solid;
+  width: 5%;
+  margin: auto;
+  border-color: black;
+  transform: rotateY(91deg);
+}
+
+.footer-media {
+  color: white;
+  background-color: #1b2631;
+  width: 83%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin: 90px auto;
+}
+
+.logo {
+  border-radius: 100px;
+  height: 50px;
+  width: 50px;
+}
+
+/* @media screen {
+  
+} */
